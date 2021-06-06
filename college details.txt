@@ -4,3 +4,5 @@ Subject: My college details
 2. I am studying in JNTUA anathapuram
 3. I am studying 3rb Btech.
 4. My Branch is CSE
+5. My village name is Maddipalli.
+6. District is Anathapur.
