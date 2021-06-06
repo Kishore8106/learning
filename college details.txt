@@ -2,3 +2,5 @@ Subject: My college details
 
 1. Hi, I'm Nandakishore Reddy.
 2. I am studying in JNTUA anathapuram
+3. I am studying 3rb Btech.
+4. My Branch is CSE
